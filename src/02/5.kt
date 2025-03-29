@@ -33,6 +33,7 @@ fun main() {
     print("$valor5, ")
     println("$valor6. ")
 
+
     val soma = valor1 + valor2 + valor3 + valor4 + valor5 + valor6
     val media = soma / 6.0
 

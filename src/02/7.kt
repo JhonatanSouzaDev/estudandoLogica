@@ -21,4 +21,5 @@ fun main(){
     }
 
     println("A soma dos valores inferiores a 72 é: $soma")
+
 }
