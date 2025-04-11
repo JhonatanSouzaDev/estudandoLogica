@@ -21,4 +21,5 @@ fun main() {
     }
     val media = soma.toDouble() / quantidade
     println("A média aritimética de $primeiroNumero e $segundoNumero é de $media")
+
 }
