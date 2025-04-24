@@ -1,6 +1,6 @@
 package `04`
 
-fun main(){
+fun main() {
 
     val estudantes = mutableListOf<String>()
 
