@@ -1,7 +1,5 @@
 package `03`
 
-import kotlin.concurrent.thread
-
 //entendo que usar Thread não é recomendado, usa- se Coroutines, que é mais leve e mais seguro.
 
 fun main() {
